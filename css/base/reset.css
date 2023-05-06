@@ -1,0 +1,26 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+*, *::after, *::before {
+    box-sizing: border-box;
+    font-family: 'Livvic';
+}
+body {
+    background-color: var(--var-primarycolor-green);
+}
+a {
+    text-decoration: none;
+}
+
+:root {
+    --var-primarycolor-green: #014E56;
+    --var-primarycolor-coral: #F67E7E;
+    --var-primarycolor-white: #FFFFFF;
+    --var-secondarycolor-blue: #79C8C7;
+    --var-secondarycolor-policeblue: #2C6269;
+    --var-secondarycolor-junglegreen: #004047;
+    --var-secondarycolor-stategreen: #012F34;
+    --var-secondarycolor-darkgreen:  #002529;
+}
