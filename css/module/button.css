@@ -1,0 +1,6 @@
+button {
+    padding: 9px 33px 11px 32px;
+    border: 2px solid;
+    border-radius: 24px;
+    cursor: pointer;
+}
